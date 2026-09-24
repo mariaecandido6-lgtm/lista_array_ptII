@@ -15,7 +15,7 @@ console.log("\n");
 
 
 
-//4. 4. Crie um array contendo apenas os produtos que possuem estoque maior que 0 e custam mais de R$ 100.
+// 4. Crie um array contendo apenas os produtos que possuem estoque maior que 0 e custam mais de R$ 100.
 
 
 const produtosDisponiveis = produtos.filter((produtos) => {
